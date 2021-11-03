@@ -26,7 +26,7 @@ SECRET_KEY = 'n0uj0hu1h1b+t#fwz*j&-wi5((+u)&+6i5y71ivu^)4wh=g8l('
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'guarded-refuge-90219.herokuapp.com'
+    'guarded-refuge-90219.herokuapp.com',
 ]
 
 
